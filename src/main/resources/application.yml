@@ -1,0 +1,5 @@
+server.port: 8999
+
+bindings.user-mgmt:
+  base-url: "https://stage.assembly.pwc.com/api/3.0/"
+  users-me: "https://stage.assembly.pwc.com/api/3.0/users/me"
